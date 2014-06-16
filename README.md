@@ -1,3 +1,22 @@
+## urg_c (indigo) - 1.0.404-1
+
+The packages in the `urg_c` repository were released into the `indigo` distro by running `/usr/bin/bloom-release urg_c -t indigo -r indigo` on `Mon, 16 Jun 2014 21:50:55 -0000`
+
+The `urg_c` package was released.
+
+Version of package(s) in repository `urg_c`:
+- rosdistro version: `1.0.404-0`
+- old version: `1.0.404-0`
+- new version: `1.0.404-1`
+
+Versions of tools used:
+- bloom version: `0.5.10`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.0`
+- vcstools version: `0.1.33`
+
+
 ## urg_c (hydro) - 1.0.404-0
 
 The packages in the `urg_c` repository were released into the `hydro` distro by running `/usr/bin/bloom-release urg_c -t hydro -r hydro` on `Mon, 16 Jun 2014 21:49:07 -0000`
